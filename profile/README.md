@@ -1,7 +1,9 @@
-# <img width="2%" src="/profile/isdf_scavenger.png"><img width="2%" src="/profile/ascav.png"> Battlezone Scrap Field
+## Welcome! 👋
 ```
 Thanks for checking out the GitHub Organization!
 ```
+
+<hr>
 
 ## Purpose
 > We want to provide a one-stop shop of resources available for active modders and community members, to contribute to and use.
@@ -17,7 +19,6 @@ Thanks for checking out the GitHub Organization!
 ## Areas of Interest
 <code><img width="4%" src="/profile/blender_large.png/"></code>
 <code><img width="4%" src="/profile/SubstancePainter.png/"></code>
-
 
 ## Community Discords
 `Battlezone Strategy`
