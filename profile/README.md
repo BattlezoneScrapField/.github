@@ -1,4 +1,4 @@
-# Battlezone Scrap Field
+# Welcome to the *Battlezone Scrap Field*
 ```
 Welcome to our GitHub Organization!
 ```
