@@ -1,8 +1,8 @@
-# Battlezone Scrap Field on GitHub
-> Hub of open-source packages, tools, and other projects relating to modding Battlezone 1 & 2.
+# A new Battlezone Scrap Field on GitHub
+> Supporting Battlezone 1 & 2 (and their respective Steam & GOG remasters).
 
 ## Purpose
-We want to provide a one-stop shop of resources available for active modders and community members to contribute and freely use open-source projects.
+> We want to provide a one-stop shop of resources available for active modders and community members to contribute and freely use open-source projects.
 
 ## Discords
 `Battlezone Strategy`
