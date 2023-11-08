@@ -13,10 +13,10 @@
 
 ## Steam Workshops
 `Battlezone 98 Redux`
-<a href="https://steamcommunity.com/app/301650/workshop/"><code><img width="4%" src="./Steam_icon_logo.svg.png" title="BZ98R"></code></a>
+<a href="https://steamcommunity.com/app/301650/workshop/"><img width="2%" src="Steam_icon_logo.svg.png" title="BZ98R"></a>
 <br>
 `Battlezone: Combat Commander`
-<a href="https://steamcommunity.com/app/301650/workshop/"><code><img width="4%" src="./Steam_icon_logo.svg.png" title="BZCC"></code></a>
+<a href="https://steamcommunity.com/app/301650/workshop/"><img width="2%" src="Steam_icon_logo.svg.png" title="BZCC"></a>
 
 ## Additional Links
 - https://www.bzscrap.org/
