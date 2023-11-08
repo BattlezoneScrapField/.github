@@ -1,4 +1,4 @@
-# <img width="10%" src="/profile/Steam_icon_logo.svg.png"> Battlezone Scrap Field
+# <img width="2%" src="/profile/isdf_scavenger.png"><img width="2%" src="/profile/ascav.png"> Battlezone Scrap Field
 ```
 Thanks for checking out the GitHub Organization!
 ```
@@ -36,3 +36,5 @@ Thanks for checking out the GitHub Organization!
 ## Additional Links
 - https://www.bzscrap.org/
 - https://bzmaps.net/
+
+<br>
