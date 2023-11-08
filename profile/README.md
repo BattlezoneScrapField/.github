@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-<img width="4%" src="/profile/gif/bz2_scav_deploy.gif">
+<img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
 
 ```
 Thanks for checking out the GitHub Organization!
