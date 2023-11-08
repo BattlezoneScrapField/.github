@@ -1,4 +1,4 @@
-# Welcome to the *Battlezone Scrap Field*
+# Battlezone Scrap Field
 ```
 Welcome to our GitHub Organization!
 ```
@@ -10,8 +10,9 @@ Welcome to our GitHub Organization!
 <!-- RELEASES -->
 | Resource | Version |
 | --- | --- |
-| **Substance 3D Painter Export Presets** | <a href='https://github.com/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets/releases'><img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets?color=b86302&label=version&style=for-the-badge&&logo=git&labelColor=222f40'> |
-| **Example Tool** | <a href='https://github.com/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets/releases'><img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets?color=b86302&label=version&style=for-the-badge&&logo=git&labelColor=222f40'> |
+| **Substance 3D Painter Export Presets** | <a href='https://github.com/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets/releases'><img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets?color=3e5b80&label=version&style=for-the-badge&&logo=git&labelColor=222f40'> |
+| **Example BZ1 Tool** | <a href='https://github.com/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets/releases'><img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets?color=356e3f&label=version&style=for-the-badge&&logo=git&labelColor=222f40'> |
+| **Example BZ2 Tool** | <a href='https://github.com/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets/releases'><img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets?color=b86302&label=version&style=for-the-badge&&logo=git&labelColor=222f40'> |
 
 ## Community Discords
 `Battlezone Strategy`
