@@ -11,12 +11,12 @@
 `Battlezone Community`
 <a href="https://www.discord.gg/battlezone-271066904284758027"><code><img width="4%" src="https://img.icons8.com/?size=512&id=30998&format=png" title="Discord"></code></a>
 
-## Steam Workshops
+## Available Steam Workshops
 `Battlezone 98 Redux`
-<a href="https://steamcommunity.com/app/301650/workshop/"><img width="2%" src="Steam_icon_logo.svg.png" title="BZ98R"></a>
+<a href="https://steamcommunity.com/app/301650/workshop/"><img width="4%" src="https://img.icons8.com/?size=240&id=zNqjI8XKkCv0&format=png" title="BZ98R"></a>
 <br>
 `Battlezone: Combat Commander`
-<a href="https://steamcommunity.com/app/301650/workshop/"><img width="2%" src="Steam_icon_logo.svg.png" title="BZCC"></a>
+<a href="https://steamcommunity.com/app/301650/workshop/"><img width="4%" src="https://img.icons8.com/?size=240&id=zNqjI8XKkCv0&format=png" title="BZCC"></a>
 
 ## Additional Links
 - https://www.bzscrap.org/
