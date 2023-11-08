@@ -1,4 +1,7 @@
 ## Welcome! 👋
+
+<img width="4%" src="/profile/gif/bz2_scav_deploy.gif">
+
 ```
 Thanks for checking out the GitHub Organization!
 ```
@@ -6,9 +9,9 @@ Thanks for checking out the GitHub Organization!
 <hr>
 
 ## Purpose
-> We want to provide a one-stop shop of resources available for active modders and community members, to contribute to and use.
+> We aim to provide a one-stop shop of resources available for active modders and community members, to contribute to and use.
 
-## Available Releases
+## Available Releases 🚀
 <!-- RELEASES -->
 | Resource | Version |
 | --- | --- |
@@ -17,8 +20,8 @@ Thanks for checking out the GitHub Organization!
 | **Example BZ2 Tool** | <a href='https://github.com/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets/releases'><img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets?color=b86302&label=version&style=for-the-badge&&logo=git&labelColor=222f40'> |
 
 ## Areas of Interest
-<code><img width="4%" src="/profile/blender_large.png/"></code>
-<code><img width="4%" src="/profile/SubstancePainter.png/"></code>
+<code><img width="4%" src="/profile/img/Blender_large.png"></code>
+<code><img width="4%" src="/profile/img/SP_large.png"></code>
 
 ## Community Discords
 `Battlezone Strategy`
