@@ -1,5 +1,5 @@
-# A new Battlezone Scrap Field on GitHub
-> Supporting Battlezone 1 & 2 (and their respective Steam & GOG remasters).
+# A new Scrap Field for BZ on GitHub
+> Welcome to our GitHub Organization!
 
 ## Purpose
 > We want to provide a one-stop shop of resources available for active modders and community members to contribute and freely use open-source projects.
