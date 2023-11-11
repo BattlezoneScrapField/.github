@@ -15,14 +15,13 @@ Welcome to the Battlezone Scrap Field organization! 👋
 We aim to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
 Let us know if you have any questions, feedback, or want to help contribute!
 ```
-<img width="30%" src="/profile/gif/bz2_scrap_drive.gif">
-
+<p align="center">
+  <img width="50%" src="/profile/gif/bz2_scrap_drive.gif">
+</p>
 
 <br>
 
 # Getting Involved
-
-<img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
 
 Here are a few steps on how you can get involved with the Battlezone community:
 
@@ -70,9 +69,6 @@ Here are some featured projects!
 | [BZCC Color Editor](https://github.com/HerndonE/BZCC-Color-Editor) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | | |
 
-
-
-
 <br>
 
 ## <img width="2%" src="https://img.icons8.com/?size=240&id=zNqjI8XKkCv0&format=png"> Steam Workshops
@@ -100,6 +96,9 @@ We recommend you check out the links below!
 - https://strategywiki.org/wiki/Battlezone_(Activision)
 
 <br>
+<br>
+
+<img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
 <!--
 <img width="2%" src="https://img.icons8.com/?size=512&id=30998&format=png" title="Discord">
 <code><img width="4%" src="/profile/img/Blender_large.png"></code>
