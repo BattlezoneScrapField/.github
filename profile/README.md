@@ -5,14 +5,18 @@ Thanks!
 # Battlezone Scrap Field
 -->
 
-<!--<img width="50%" src="/profile/gif/battlezone_shell_clip_text_blank.gif">-->
+<!--
+<img width="50%" src="/profile/gif/battlezone_shell_clip_text_blank.gif">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2d4a63&height=300&section=header&text=BATTLEZONE&fontSize=90&fontColor=ebebeb&animation=fadeIn&fontAlignY=38&desc=Scrap%20Field%20Hub&descAlignY=55&descAlign=60)
+-->
 
 ```
 Welcome to the Battlezone Scrap Field organization! 👋
 We aim to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
 Let us know if you have any questions, feedback, or want to help contribute!
 ```
+<img width="30%" src="/profile/gif/bz2_scrap_drive.gif">
+
 
 <br>
 
