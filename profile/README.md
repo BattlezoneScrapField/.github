@@ -47,6 +47,9 @@ Here are a few steps on how you can get involved with the Battlezone community:
 | Resource | Version |
 | --- | --- |
 | [BZ2 Terrain Editor](https://github.com/Nielk1/bz2terraineditor) | <img src='https://img.shields.io/github/v/tag/Nielk1/bz2terraineditor?label=%20&style=for-the-badge&color=3e5b80'> |
+| [BZ2 UI Editor](https://github.com/LuzFaltex/BZ2UIEdit) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [BZ2 BZN Binary Tools](https://github.com/Nielk1/bz2-bzn_binary-format-tools) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [BZ2 BMF Format Tools](https://github.com/Nielk1/bz2-bmf-format-tools) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZ2 XSI IO for Blender](https://github.com/frute94/io_scene_bz2xsi) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Ogre3D Mesh Editor](https://github.com/fernandotonon/QtMeshEditor) | <img src='https://img.shields.io/github/v/release/fernandotonon/QtMeshEditor?label=%20&style=for-the-badge&color=3e5b80'> |
 | [Ogre Blender Plugin](https://github.com/OGRECave/blender2ogre) | <img src='https://img.shields.io/github/v/release/OGRECave/blender2ogre?label=%20&style=for-the-badge&color=3e5b80'> |
@@ -55,6 +58,7 @@ Here are a few steps on how you can get involved with the Battlezone community:
 | [Battlezone Color Selector](https://github.com/HerndonE/Battlezone-Color-Selector) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZCC Color Editor](https://github.com/HerndonE/BZCC-Color-Editor) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | | |
+
 
 
 
