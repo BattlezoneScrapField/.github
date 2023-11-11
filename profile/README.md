@@ -84,6 +84,7 @@ We recommend you check out the links below!
 `Resources`
 - [BZ Scrap](https://bzmaps.net/)
 - [Goomba's Battlezone Maproom](https://bzmaps.net/)
+- [Battlezone 1 Utilities (GitHub)](https://github.com/BattlezoneUtilities)
 
 `Wiki's`
 - https://strategywiki.org/wiki/Battlezone_(Activision)
