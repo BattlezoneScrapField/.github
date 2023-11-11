@@ -1,10 +1,8 @@
-## Welcome! 👋
+## Welcome to the Battlezone Scrap Field! 👋
 
 <img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
 
-```
-Thanks for checking out the GitHub Organization!
-```
+Check out community discussions [here](https://github.com/orgs/BattlezoneScrapField/discussions)!
 
 <hr>
 
