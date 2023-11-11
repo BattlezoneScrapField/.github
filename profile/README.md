@@ -16,13 +16,13 @@ Let us know if you have any questions, feedback, or want to help contribute!
 
 <br>
 
-## Getting Involved
+# Getting Involved
 
 <img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
 
 Here are a few steps on how you can get involved with the Battlezone community:
 
-- Check out whats available in the community discussions [here](https://github.com/orgs/BattlezoneScrapField/discussions)!
+- Check out whats available in [community discussions](https://github.com/orgs/BattlezoneScrapField/discussions)!
 - Request to contribute to GitHub projects!
 - Join the discord servers!
 
@@ -36,9 +36,13 @@ Here are a few steps on how you can get involved with the Battlezone community:
 <br>
 <br>
 
-## 🚀 Latest Releases
+# 🚀 Latest Releases
 
-`Available`
+Here are some featured projects!
+
+## Repositories
+
+`Organizational`
 | Resource | Version |
 | --- | --- |
 | [Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/Substance-3D-Painter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/Substance-3D-Painter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
@@ -79,12 +83,12 @@ If you are looking to find already published mods availabe for `BZ98R` and `BZCC
 
 <br>
 
-## Additional Sites
+# Additional Sites
 
 We recommend you check out the links below!
 
 `Resources`
-- [BZ Scrap](https://bzmaps.net/)
+- [BZ Scrap.org](https://bzmaps.net/)
 - [Goomba's Battlezone Maproom](https://bzmaps.net/)
 - [Battlezone 1 Utilities (GitHub)](https://github.com/BattlezoneUtilities)
 
