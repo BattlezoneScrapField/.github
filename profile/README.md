@@ -1,21 +1,25 @@
 <!--
-<img width="2%" src="https://img.icons8.com/?size=512&id=30998&format=png" title="Discord">
-<code><img width="4%" src="/profile/img/Blender_large.png"></code>
-<code><img width="4%" src="/profile/img/SP_large.png"></code>
---> 
-
+DO NOT DELETE THIS FILE. README FILE FEATURED IN ORG OVERVIEW.
+Thanks!
+-->
 # Battlezone Scrap Field
 
-Welcome to the **Battlezone Scrap Field** organization! 👋
+<img width="50%" src="/profile/gif/battlezone_shell_clip_text_blank.gif">
 
-<img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
-
-> We aim to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
+```
+Welcome to the Battlezone Scrap Field organization! 👋
+We aim to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
+Let us know if you have any questions, feedback, or want to help contribute!
+```
 
 <br>
 
 ## Getting Involved
+
+<img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
+
 Here are a few steps on how you can get involved with the Battlezone community:
+
 - Check out whats available in the community discussions [here](https://github.com/orgs/BattlezoneScrapField/discussions)!
 - Join the discord servers!
 
@@ -26,6 +30,7 @@ Here are a few steps on how you can get involved with the Battlezone community:
   <img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Community-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/>
 </a>
 
+<br>
 <br>
 
 ## 🚀 Latest Releases
@@ -69,6 +74,8 @@ If you are looking to find already published mods availabe for `BZ98R` and `BZCC
 
 ## Additional Sites
 
+We recommend you check out the links below!
+
 `Resources`
 - [BZ Scrap](https://bzmaps.net/)
 - [Goomba's Battlezone Maproom](https://bzmaps.net/)
@@ -76,5 +83,9 @@ If you are looking to find already published mods availabe for `BZ98R` and `BZCC
 `Wiki's`
 - https://strategywiki.org/wiki/Battlezone_(Activision)
 
-
 <br>
+<!--
+<img width="2%" src="https://img.icons8.com/?size=512&id=30998&format=png" title="Discord">
+<code><img width="4%" src="/profile/img/Blender_large.png"></code>
+<code><img width="4%" src="/profile/img/SP_large.png"></code>
+--> 
