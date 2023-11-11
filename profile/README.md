@@ -39,7 +39,7 @@ Here are a few steps on how you can get involved with the Battlezone community:
 `Available`
 | Resource | Version |
 | --- | --- |
-| [Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZ-Substance3DPainter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
+| [Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/Substance-3D-Painter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/Substance-3D-Painter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
 | | |
 
 <br>
