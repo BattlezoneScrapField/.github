@@ -21,6 +21,7 @@ Let us know if you have any questions, feedback, or want to help contribute!
 Here are a few steps on how you can get involved with the Battlezone community:
 
 - Check out whats available in the community discussions [here](https://github.com/orgs/BattlezoneScrapField/discussions)!
+- Request to contribute to GitHub projects!
 - Join the discord servers!
 
 <a href="https://www.discord.gg/JmgXdvwm6Y">
