@@ -12,7 +12,8 @@ Thanks!
 
 # Welcome to the Battlezone Scrap Field! 👋
 ```
-We are a communiuty-managed organization that aims to provide a one-stop shop for Battlezone community members to share their open-source resources or projects. 
+We are a community-managed organization that aims to provide a one-stop shop
+for Battlezone community members to share their open-source resources or projects. 
 Feel free to get involved, fork your projects, or create new project repositories here! 
 
 Otherwise, let any of the members know if you have any questions, feedback, or want to help contribute!
