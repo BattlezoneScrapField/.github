@@ -11,13 +11,11 @@ Thanks!
 -->
 
 # Welcome to the Battlezone Scrap Field! 👋
-```
-We are a community-managed organization that aims to provide a one-stop shop
-for Battlezone community members to share their open-source resources or projects. 
-Feel free to get involved, fork your projects, or create new project repositories here! 
 
-Otherwise, let any of the members know if you have any questions, feedback, or want to help contribute!
-```
+> We are a community-managed organization that aims to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
+> Feel free to get involved, fork your projects, or create new project repositories here!
+> Otherwise, let any of the members know if you have any questions, feedback, or want to help contribute!
+
 <p align="center">
   <img width="50%" src="/profile/gif/bz2_scrap_drive.gif">
 </p>
