@@ -92,9 +92,16 @@ We recommend you check out the links below!
 - [BZ Scrap.org](https://bzmaps.net/)
 - [Goomba's Battlezone Maproom](https://bzmaps.net/)
 - [Battlezone 1 Utilities (GitHub)](https://github.com/BattlezoneUtilities)
+- [Battlezone II Scrap Management Guide](https://www.matesfamily.org/bz2/scrapmgmt.html)
+- [Tips for Battlezone II Multiplayer](https://www.matesfamily.org/bz2/nettips.html)
+- [BZ Scrap](https://bzscrap.org/)
 
 `Wiki's`
 - https://strategywiki.org/wiki/Battlezone_(Activision)
+
+`Forums`
+- [Battlezone II Forum (Mates Family)](https://bzforum.matesfamily.org/)
+
 
 <br>
 <br>
