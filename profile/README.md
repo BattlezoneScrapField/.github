@@ -71,11 +71,12 @@ Here are some featured projects!
 
 <br>
 
-`Campaigns and Mods`
+`Community Mods and Campaigns`
 | Resource | Version |
 | --- | --- |
 | [Lost Missions Campaign](https://github.com/HerndonE/Battlezone-Missions) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Forgotten Enemies Remastered](https://github.com/BlackDragonN001/FERemastered) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [Epic Remastered](https://github.com/BlackDragonN001/EPIC_BZCC) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Fleshstorm Remastered](https://github.com/HerndonE/BZCC-Fleshstorm-Remastered) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Lua Mission Demo](https://github.com/HerndonE/Battlezone-Missions) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 
