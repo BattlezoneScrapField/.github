@@ -50,7 +50,7 @@ Here are some featured projects!
 | Resource | Version |
 | --- | --- |
 | [Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/Substance-3D-Painter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/Substance-3D-Painter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
-| | |
+
 
 <br>
 
@@ -68,7 +68,17 @@ Here are some featured projects!
 | [Kenshi IO Blender Plugin](https://github.com/Kindrad/Kenshi_IO_Continued) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Battlezone Color Selector](https://github.com/HerndonE/Battlezone-Color-Selector) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZCC Color Editor](https://github.com/HerndonE/BZCC-Color-Editor) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| | |
+
+<br>
+
+`Community Mods and Campaigns`
+| Resource | Version |
+| --- | --- |
+| [Lost Missions Campaign](https://github.com/HerndonE/Battlezone-Missions) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [Forgotten Enemies Remastered](https://github.com/BlackDragonN001/FERemastered) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [Epic Remastered](https://github.com/BlackDragonN001/EPIC_BZCC) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [Fleshstorm Remastered](https://github.com/HerndonE/BZCC-Fleshstorm-Remastered) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [Lua Mission Demo](https://github.com/HerndonE/Battlezone-Missions) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 
 <br>
 
@@ -104,8 +114,9 @@ We recommend you check out the links below!
 
 <br>
 <br>
-
+<p align="center">
 <img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
+</p>
 <!--
 <img width="2%" src="https://img.icons8.com/?size=512&id=30998&format=png" title="Discord">
 <code><img width="4%" src="/profile/img/Blender_large.png"></code>
