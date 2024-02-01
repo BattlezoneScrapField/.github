@@ -46,15 +46,21 @@ Here are some featured projects!
 
 ## Repositories
 
-`Organizational`
+`Organization Repositories`
 | Resource | Version |
 | --- | --- |
 | [Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/Substance-3D-Painter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/Substance-3D-Painter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
-
+| [ODF Parser](https://github.com/BattlezoneScrapField/ODFParser) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [WAV Duration](https://github.com/BattlezoneScrapField/WAVDuration) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [DDS Creator](https://github.com/BattlezoneScrapField/BattlezoneDDSCreator) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+<!--
+Can add this in later :)
+| [Map Suggestion Discord Bot](https://github.com/BattlezoneScrapField/BZ-Map-Suggestion-Discord-Bot) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+-->
 
 <br>
 
-`External`
+`External Repositories`
 | Resource | Version |
 | --- | --- |
 | [BZ2 Terrain Editor](https://github.com/Nielk1/bz2terraineditor) | <img src='https://img.shields.io/github/v/tag/Nielk1/bz2terraineditor?label=%20&style=for-the-badge&color=3e5b80'> |
