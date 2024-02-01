@@ -79,6 +79,7 @@ Here are some featured projects!
 | [Epic Remastered](https://github.com/BlackDragonN001/EPIC_BZCC) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Fleshstorm Remastered](https://github.com/HerndonE/BZCC-Fleshstorm-Remastered) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Lua Mission Demo](https://github.com/HerndonE/Battlezone-Missions) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [United War](https://github.com/LordBramster/BZCC-United-War-Mod) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 
 <br>
 
