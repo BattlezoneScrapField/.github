@@ -61,7 +61,7 @@ Can add this in later :)
 | Resource | Version |
 | --- | --- |
 | [BZ2 Terrain Editor](https://github.com/Nielk1/bz2terraineditor) | <img src='https://img.shields.io/github/v/tag/Nielk1/bz2terraineditor?label=%20&style=for-the-badge&color=d97d0d'> |
-| [BZ2 UI Editor](https://github.com/LuzFaltex/BZ2UIEdit) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| [BZ2 UI Editor](https://github.com/BlackDragonN001/BZ2UIEdit) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZ2 BZN Binary Tools](https://github.com/Nielk1/bz2-bzn_binary-format-tools) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZ2 BMF Format Tools](https://github.com/Nielk1/bz2-bmf-format-tools) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZ2 XSI IO for Blender](https://github.com/frute94/io_scene_bz2xsi) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
