@@ -12,9 +12,9 @@ Thanks!
 
 # Welcome to the Battlezone Scrap Field! 👋
 
-> We are a community-managed organization that aims to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
-> Feel free to get involved, fork your projects, or create new project repositories here!
-> Otherwise, let any of the members know if you have any questions, feedback, or want to help contribute!
+We are a community-managed organization that aims to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
+Feel free to get involved, fork your projects, or create new project repositories here!
+Let any of the members know if you have any questions, feedback, or want to help contribute!
 
 <p align="center">
   <img width="50%" src="/profile/gif/bz2_scrap_drive.gif">
@@ -22,14 +22,14 @@ Thanks!
 
 <br>
 
-# Getting Involved
+## Getting Involved 👋
 
 Here are a few steps on how you can get involved with the Battlezone community:
 
 - Check out whats available in [community discussions](https://github.com/orgs/BattlezoneScrapField/discussions)!
-- Request to contribute to GitHub projects!
+- Request to contribute to GitHub projects and post bugs or suggestions!
+- Visit the [Battlezone Community YouTube channel](https://www.youtube.com/@BattleZoneCommunity)!
 - Join the discord servers!
-
 <a href="https://www.discord.gg/JmgXdvwm6Y">
   <img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Strategy-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/>
 </a>
@@ -40,11 +40,8 @@ Here are a few steps on how you can get involved with the Battlezone community:
 <br>
 <br>
 
-# 🚀 Latest Releases
-
+## Latest Releases 🚀
 Here are some featured projects!
-
-## Repositories
 
 `Organization Repositories`
 | Resource | Version |
@@ -90,7 +87,7 @@ Can add this in later :)
 
 <br>
 
-## <img width="2%" src="https://img.icons8.com/?size=240&id=zNqjI8XKkCv0&format=png"> Steam Workshops
+## Steam Workshops <img width="2%" src="https://img.icons8.com/?size=240&id=zNqjI8XKkCv0&format=png">
 If you are looking to find already published mods availabe for `BZ98R` and `BZCC`, check out the links below:
 
 <a href="https://steamcommunity.com/app/301650/workshop/">
@@ -102,7 +99,7 @@ If you are looking to find already published mods availabe for `BZ98R` and `BZCC
 
 <br>
 
-# Additional Sites
+## Additional Resources 🔗
 
 We recommend you check out the links below!
 
@@ -114,12 +111,9 @@ We recommend you check out the links below!
 - [Tips for Battlezone II Multiplayer](https://www.matesfamily.org/bz2/nettips.html)
 - [BZ Scrap](https://bzscrap.org/)
 
-`Wiki's`
+`Sites`
 - https://strategywiki.org/wiki/Battlezone_(Activision)
-
-`Forums`
 - [Battlezone II Forum (Mates Family)](https://bzforum.matesfamily.org/)
-
 
 <br>
 <br>
