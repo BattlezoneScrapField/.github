@@ -103,6 +103,9 @@ If you are looking to find already published mods availabe for `BZ98R` and `BZCC
 
 We recommend you check out the links below!
 
+`Source Assets`
+- [Battlezone: Combat Commander Source Assets v2](https://bzscrap.org/BZCC/CombatCommanderSourceMaterialModsv2.zip)
+
 `Resources`
 - [Goomba's Battlezone Maproom](https://bzmaps.net/)
 - [Battlezone 1 Utilities (GitHub)](https://github.com/BattlezoneUtilities)
