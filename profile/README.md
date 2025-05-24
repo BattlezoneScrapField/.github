@@ -29,6 +29,7 @@ Here are a few steps on how you can get involved with the Battlezone community:
 - Check out whats available in [community discussions](https://github.com/orgs/BattlezoneScrapField/discussions)!
 - Request to contribute to GitHub projects and post bugs or suggestions!
 - Visit the [Battlezone Community YouTube channel](https://www.youtube.com/@BattleZoneCommunity)!
+- Read the latest [patch notes for BZCC](https://github.com/BattlezoneScrapField/BZCC-Patch-Notes).
 - Join the discord servers!
 <a href="https://www.discord.gg/JmgXdvwm6Y">
   <img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Strategy-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/>
@@ -40,7 +41,7 @@ Here are a few steps on how you can get involved with the Battlezone community:
 <br>
 <br>
 
-## Latest Releases 🚀
+## Cool Projects 🚀
 Here are some featured projects!
 
 `Organization Repositories`
