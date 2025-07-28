@@ -32,6 +32,7 @@ Here are a few steps on how you can get involved with the Battlezone community:
 - Visit the [Battlezone Community YouTube channel](https://www.youtube.com/@BattleZoneCommunity)!
 - Read the latest [patch notes for BZCC](https://github.com/BattlezoneScrapField/BZCC-Patch-Notes).
 - Join the discord servers!
+<br>
 <a href="https://www.discord.gg/JmgXdvwm6Y"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Strategy-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
 <a href="https://www.discord.gg/battlezone-271066904284758027"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Community-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
 
