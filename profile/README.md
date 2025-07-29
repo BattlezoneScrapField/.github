@@ -32,9 +32,11 @@ Here are a few steps on how you can get involved with the Battlezone community:
 - Visit the [Battlezone Community YouTube channel](https://www.youtube.com/@BattleZoneCommunity)!
 - Read the latest [patch notes for BZCC](https://github.com/BattlezoneScrapField/BZCC-Patch-Notes).
 - Join the discord servers!
+
 <br>
 <a href="https://www.discord.gg/JmgXdvwm6Y"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Strategy-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
 <a href="https://www.discord.gg/battlezone-271066904284758027"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Community-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
+
 
 <br>
 <br>
@@ -86,6 +88,7 @@ Can add this in later :)
 | [United War](https://github.com/LordBramster/BZCC-United-War-Mod) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZCC: Reimagined](https://github.com/JJ173/BZCC-StockExpansion) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Battlezone Flight Simulator 2025](https://steamcommunity.com/sharedfiles/filedetails/?id=3472163513) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+
 
 <br>
 
