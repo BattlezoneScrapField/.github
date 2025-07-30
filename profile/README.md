@@ -6,8 +6,8 @@ Thanks!
 -->
 <div align="center">
   
-  # Welcome to the Battlezone Scrap Field! 👋
-  
+  # Welcome to the Battlezone Scrap Field! <img width="5%" src="/profile/img/isdf_scavenger.png">
+
   We are a community-managed organization that aims to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
   Feel free to get involved, fork your projects, or create new project repositories here!
   Let any of the members know if you have any questions, feedback, or want to help contribute!
@@ -26,8 +26,8 @@ Here are a few steps on how you can get involved with the Battlezone community:
 - Visit the [Battlezone Community YouTube channel](https://www.youtube.com/@BattleZoneCommunity)!
 - Read the latest [patch notes for BZCC](https://github.com/BattlezoneScrapField/BZCC-Patch-Notes).
 - Join the discord servers!
-<a href="https://www.discord.gg/JmgXdvwm6Y"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Strategy-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
-<a href="https://www.discord.gg/battlezone-271066904284758027"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Community-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
+<a href="https://www.discord.gg/battlezone-271066904284758027"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Official-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
+<a href="https://www.discord.gg/JmgXdvwm6Y"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Community-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
 
 <br>
 
