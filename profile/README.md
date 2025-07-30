@@ -4,21 +4,14 @@ Thanks!
 
 # Battlezone Scrap Field
 -->
-
-<!--
-<img width="50%" src="/profile/gif/battlezone_shell_clip_text_blank.gif">
-![header](https://capsule-render.vercel.app/api?type=waving&color=2d4a63&height=300&section=header&text=BATTLEZONE&fontSize=90&fontColor=ebebeb&animation=fadeIn&fontAlignY=38&desc=Scrap%20Field%20Hub&descAlignY=55&descAlign=60)
--->
-
 <div align="center">
-
-# Welcome to the Battlezone Scrap Field! 👋
-
-We are a community-managed organization that aims to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
-Feel free to get involved, fork your projects, or create new project repositories here!
-Let any of the members know if you have any questions, feedback, or want to help contribute!
-
-<img width="50%" src="/profile/gif/bz2_scrap_drive.gif">
+  # Welcome to the Battlezone Scrap Field! 👋
+  
+  We are a community-managed organization that aims to provide a one-stop shop for Battlezone community members to share their open-source resources or projects.
+  Feel free to get involved, fork your projects, or create new project repositories here!
+  Let any of the members know if you have any questions, feedback, or want to help contribute!
+  
+  <img width="50%" src="/profile/gif/bz2_scrap_drive.gif">
 </div>
 
 <br>
@@ -32,35 +25,26 @@ Here are a few steps on how you can get involved with the Battlezone community:
 - Visit the [Battlezone Community YouTube channel](https://www.youtube.com/@BattleZoneCommunity)!
 - Read the latest [patch notes for BZCC](https://github.com/BattlezoneScrapField/BZCC-Patch-Notes).
 - Join the discord servers!
-
-<br>
 <a href="https://www.discord.gg/JmgXdvwm6Y"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Strategy-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
 <a href="https://www.discord.gg/battlezone-271066904284758027"><img alt="Discord" title="Discord" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Community-7289da?style=for-the-badge&logoColor=white&logo=discord&labelColor=40464a"/></a>
 
-
-<br>
 <br>
 
-## Cool Projects 🚀
+## Projects 🚀
 Here are some featured projects!
 
-`Organization Repositories`
-| Resource | Version |
+| Scrap Field Repos | Latest |
 | --- | --- |
+| [BZCC Beta Patch Notes](https://github.com/BattlezoneScrapField/BZCC-Patch-Notes) | <img src='https://img.shields.io/badge/2.0.186.0-3e5b80.svg?&style=for-the-badge'> |
 | [BZCC Source Material](https://github.com/BattlezoneScrapField/BZCC-Source-Assets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZCC-Source-Assets?label=%20&style=for-the-badge&color=3e5b80'> |
 | [ODF Parser](https://github.com/BattlezoneScrapField/ODFParser) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [WAV Duration](https://github.com/BattlezoneScrapField/WAVDuration) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [DDS Creator](https://github.com/BattlezoneScrapField/BattlezoneDDSCreator) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/Substance-3D-Painter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/Substance-3D-Painter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
-<!--
-Can add this in later :)
-| [Map Suggestion Discord Bot](https://github.com/BattlezoneScrapField/BZ-Map-Suggestion-Discord-Bot) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
--->
+| [BZCC Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/Substance-3D-Painter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/Substance-3D-Painter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
 
 <br>
 
-`External Repositories`
-| Resource | Version |
+| External Repos | Latest |
 | --- | --- |
 | [BZ2 Terrain Editor](https://github.com/Nielk1/bz2terraineditor) | <img src='https://img.shields.io/github/v/tag/Nielk1/bz2terraineditor?label=%20&style=for-the-badge&color=d97d0d'> |
 | [BZ2 UI Editor](https://github.com/BlackDragonN001/BZ2UIEdit) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
@@ -77,26 +61,21 @@ Can add this in later :)
 
 <br>
 
-`Community Mods and Campaigns`
-| Resource | Version |
-| --- | --- |
-| [Lost Missions Campaign](https://steamcommunity.com/sharedfiles/filedetails/?id=2537486778) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [Forgotten Enemies Remastered](https://github.com/BlackDragonN001/FERemastered) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [Epic Remastered](https://github.com/BlackDragonN001/EPIC_BZCC) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [Fleshstorm Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=3045458770) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [Lua Mission Demo](https://steamcommunity.com/sharedfiles/filedetails/?id=2550917282) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [United War](https://github.com/LordBramster/BZCC-United-War-Mod) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [BZCC: Reimagined](https://github.com/JJ173/BZCC-StockExpansion) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [Battlezone Flight Simulator 2025](https://steamcommunity.com/sharedfiles/filedetails/?id=3472163513) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
+| Community Mods <img width="5%" src="https://img.icons8.com/?size=240&id=zNqjI8XKkCv0&format=png">  | Repo | Workshop |
+| --- | --- | --- |
+| Lost Missions Campaign | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'>  | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2537486778)  |
+| Battlezone Flight Simulator 2025 | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'> | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3472163513) |
+| BZCC: Reimagined | [Repo](https://github.com/JJ173/BZCC-StockExpansion) | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'> |
+| Forgotten Enemies: Remastered | [Repo](https://github.com/BlackDragonN001/FERemastered) | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'> |
+| EPIC: Remastered | [Repo](https://github.com/BlackDragonN001/EPIC_BZCC) | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'>  |
+| Fleshstorm: Remastered | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'> | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3045458770) |
+| Lua Mission Demo | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'> | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2550917282) |
+| United War | [Repo](https://github.com/LordBramster/BZCC-United-War) | <img src='https://img.shields.io/badge/TBD-5c5c5c.svg?&style=for-the-badge'> |
 
+> If you are looking to find already published mods available for `BZ98R` and `BZCC`, check out the links below:
 
-<br>
-
-## Steam Workshops <img width="2%" src="https://img.icons8.com/?size=240&id=zNqjI8XKkCv0&format=png">
-If you are looking to find already published mods availabe for `BZ98R` and `BZCC`, check out the links below:
-
-<a href="https://steamcommunity.com/app/301650/workshop/"><img alt="Workshop" title="Workshop" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%2098%20Redux-0a3757?style=for-the-badge&logoColor=white&logo=link&labelColor=222f40"/></a>
-<a href="https://steamcommunity.com/app/301650/workshop/"><img alt="Workshop" title="Workshop" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Combat%20Commander-0a3757?style=for-the-badge&logoColor=white&logo=link&labelColor=222f40"/></a>
+<a href="https://steamcommunity.com/app/301650/workshop/"><img alt="BZ98R" title="Workshop" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%2098%20Redux-027534?style=for-the-badge&logoColor=white&logo=steam&labelColor=222f40"/></a>
+<a href="https://steamcommunity.com/app/301650/workshop/"><img alt="BZCC" title="Workshop" src="https://custom-icon-badges.demolab.com/badge/-Battlezone%20Combat%20Commander-0396a1?style=for-the-badge&logoColor=white&logo=steam&labelColor=222f40"/></a>
 
 <br>
 
@@ -119,11 +98,11 @@ We recommend you check out the links below!
 - https://strategywiki.org/wiki/Battlezone_(Activision)
 - [Battlezone II Forum (Mates Family)](https://bzforum.matesfamily.org/)
 - [BZCC-Website](https://battlezonescrapfield.github.io/BZCC-Website/)
+- [Battlezone Scrap Field (Landing)](https://battlezonescrapfield.github.io/)
 - [Battlezone Report](https://battlezone.report/)
 - [Rebellions Battlezone 98 API](http://battlezone98mp.webdev.rebellion.co.uk:1337/)
 - [Rebellions Battlezone CC API](http://battlezone99mp.webdev.rebellion.co.uk/lobbyServer)
 
-<br>
 <br>
 <p align="center">
 <img width="30%" src="/profile/gif/bz2_scav_deploy.gif">
