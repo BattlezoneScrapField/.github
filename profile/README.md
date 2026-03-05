@@ -38,9 +38,6 @@ Here are some featured projects!
 | --- | --- |
 | [BZCC Beta Patch Notes](https://github.com/BattlezoneScrapField/BZCC-Patch-Notes) | <img src='https://img.shields.io/badge/2.0.186.0-3e5b80.svg?&style=for-the-badge'> |
 | [BZCC Source Material](https://github.com/BattlezoneScrapField/BZCC-Source-Assets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/BZCC-Source-Assets?label=%20&style=for-the-badge&color=3e5b80'> |
-| [ODF Parser](https://github.com/BattlezoneScrapField/ODFParser) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [WAV Duration](https://github.com/BattlezoneScrapField/WAVDuration) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
-| [DDS Creator](https://github.com/BattlezoneScrapField/BattlezoneDDSCreator) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZCC Substance 3D Painter Export Presets](https://github.com/BattlezoneScrapField/Substance-3D-Painter-Export-Presets) | <img src='https://img.shields.io/github/v/release/BattlezoneScrapField/Substance-3D-Painter-Export-Presets?label=%20&style=for-the-badge&color=3e5b80'> |
 
 <br>
@@ -53,10 +50,6 @@ Here are some featured projects!
 | [BZ2 BMF Format Tools](https://github.com/Nielk1/bz2-bmf-format-tools) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZ2 XSI IO for Blender](https://github.com/frute94/io_scene_bz2xsi) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZ98R Utility and Script Extender](https://github.com/VTrider/ExtraUtilities) | <img src='https://img.shields.io/github/v/release/VTrider/ExtraUtilities?label=%20&style=for-the-badge&color=15bf64'> |
-| [Ogre3D Mesh Editor](https://github.com/fernandotonon/QtMeshEditor) | <img src='https://img.shields.io/github/v/release/fernandotonon/QtMeshEditor?label=%20&style=for-the-badge&color=15bf64'> |
-| [Ogre Blender Plugin](https://github.com/OGRECave/blender2ogre) | <img src='https://img.shields.io/github/v/release/OGRECave/blender2ogre?label=%20&style=for-the-badge&color=15bf64'> |
-| [Kenshi IO Blender (untested)](https://github.com/Lucius64/kenshi_io_blender) | <img src='https://img.shields.io/github/v/release/Lucius64/kenshi_io_blender?label=%20&style=for-the-badge&color=15bf64'> |
-| [Kenshi IO Blender Plugin](https://github.com/Kindrad/Kenshi_IO_Continued) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [Battlezone Color Selector](https://github.com/HerndonE/Battlezone-Color-Selector) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 | [BZCC Color Editor](https://github.com/HerndonE/BZCC-Color-Editor) | <img src='https://img.shields.io/badge/N/A-5c5c5c.svg?&style=for-the-badge'> |
 
